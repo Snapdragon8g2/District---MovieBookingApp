@@ -1,22 +1,76 @@
-# District---MovieBookingApp
+| Tech        | Role                          |
+|-------------|-------------------------------|
+| ⚛️ React     | Front-end library              |
+| 🎨 CSS       | Styling                        |
+| 📡 Axios     | API calls                      |
+| 🧠 Node.js   | Back-end JavaScript runtime    |
+| 🚂 Express   | Web server framework           |
+| 🍃 MongoDB   | NoSQL database                 |
+| 🔗 Mongoose  | MongoDB ODM                    |
+=======
 
+## 🧰 Technologies Used
 
+| Tech              | Role                          |
+|-------------------|-------------------------------|
+| ⚛️ React           | Front-end library              |
+| 🎨 CSS             | Styling                       |
+| 📡 Axios           | API calls                     |
+| 🧠 Node.js         | Back-end JavaScript runtime   |
+| 🚂 Express         | Web server framework          |
+| 🍃 MongoDB         | NoSQL database                |
+| 🔗 Mongoose        | MongoDB ODM                   |
+| 🌐 CORS            | Cross-Origin Resource Sharing middleware |
+| 🔄 Nodemon         | Development server auto-restart |
+| 🧩 React Context API | State management             |
 
-Welcome to the 🚀 **Movie Booking App**! This guide will help you set up and run the full-stack application seamlessly on your local machine. Let's get started! 💻
+>>>>>>> REPLACE
+<<<<<<< SEARCH
+---
+
+## 🖼️ Screenshots
+
+> 📷 Add your project screenshots here.  
+> Example:  
+> ![Home Page](./screenshots/home.png)  
+> ![Booking Page](./screenshots/booking.png)
+
+---
+=======
 
 ---
 
-## 🔧 Prerequisites
+## 🧱 Tech Stack Overview
 
-Before running the app, make sure you have the following installed:
+This project uses a MERN-like architecture combining:
 
-- 📦 [Node.js](https://nodejs.org/) & npm
-- 🍃 [MongoDB](https://www.mongodb.com/) running locally at `mongodb://127.0.0.1:27017`
+- **Back-end:**
+  - Node.js runtime environment
+  - Express.js web framework for building the API server
+  - MongoDB as the database
+  - Mongoose as the ODM (Object Data Modeling) library for MongoDB
+  - CORS middleware for handling Cross-Origin Resource Sharing
+  - Nodemon for development to automatically restart the server on code changes
+
+- **Front-end:**
+  - React.js library for building the user interface
+  - Create React App as the front-end build and development toolchain
+  - JavaScript (ES6+), CSS for styling
+  - React components organized under the `src/Components` directory
+  - React Context API for state management (`BsContext` and `BsState`)
+
+- **Additional:**
+  - The back-end server listens on port 8080 and connects to a local MongoDB instance.
+  - The front-end development server runs on port 3000.
+  - This full stack setup uses a MERN-like architecture (MongoDB, Express, React, Node.js).
 
 ---
 
-## 🛠️ Back-End Setup
+## 🖼️ Screenshots
+ 
+> Example:  
+> ![Home Page](MovieBookingApp\Screenshots\1 (1).png)  
+> ![Booking Page](MovieBookingApp\Screenshots\1 (2).png)
+> ![Booking Page](MovieBookingApp\Screenshots\1 (3).png)
 
-1. 📂 Open a terminal and navigate to the `back-end` directory:
-   ```bash
-   cd back-end
+---
