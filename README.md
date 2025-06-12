@@ -1,42 +1,95 @@
-| Tech        | Role                          |
-|-------------|-------------------------------|
-| ⚛️ React     | Front-end library              |
-| 🎨 CSS       | Styling                        |
-| 📡 Axios     | API calls                      |
-| 🧠 Node.js   | Back-end JavaScript runtime    |
-| 🚂 Express   | Web server framework           |
-| 🍃 MongoDB   | NoSQL database                 |
-| 🔗 Mongoose  | MongoDB ODM                    |
-=======
+# 🎬District Movie Booking app - Full Stack App Setup Guide
+
+Welcome to the 🚀 **Movie Booking app**! This project replicates the core features of Simple movie booking app using a full-stack MERN (MongoDB, Express, React, Node.js) architecture.
+
+---
+
+## 🔧 Prerequisites
+
+Make sure the following are installed:
+
+- 📦 [Node.js](https://nodejs.org/)
+- 🍃 [MongoDB](https://www.mongodb.com/) running locally at `mongodb://127.0.0.1:27017`
+
+---
+
+## 🛠️ Back-End Setup
+
+1. 📂 Navigate to the `back-end` directory:
+   ```bash
+   cd back-end
+   ```
+
+2. 📥 Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. ▶️ Start the server:
+   ```bash
+   npm start
+   ```
+
+✅ Server starts at **`http://localhost:8080`**  
+🛢️ Connected to MongoDB database **`bookMyShow`**
+
+---
+
+## 🎨 Front-End Setup
+
+1. 📂 Navigate to the `front-end` directory:
+   ```bash
+   cd front-end
+   ```
+
+2. 📥 Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. ▶️ Start the React dev server:
+   ```bash
+   npm start
+   ```
+
+✅ Front-end opens at **`http://localhost:3000`**
+
+---
+
+## 📊 Summary
+
+| Component  | URL                        | Description                        |
+|------------|----------------------------|------------------------------------|
+| 🔙 Back-end | `http://localhost:8080`     | Node.js + Express API server       |
+| 🔜 Front-end| `http://localhost:3000`     | React development server (client)  |
+
+---
+
+## 🧪 Features
+
+✨ Fully functional movie listing & booking interface  
+📆 Movie scheduling and seat selection  
+🛒 Ticket booking and confirmation  
+📦 MongoDB-powered persistent storage  
+🎨 Responsive, user-friendly UI built with React  
+🔄 RESTful APIs for back-end communication  
+
+---
 
 ## 🧰 Technologies Used
 
-| Tech              | Role                          |
-|-------------------|-------------------------------|
-| ⚛️ React           | Front-end library              |
-| 🎨 CSS             | Styling                       |
-| 📡 Axios           | API calls                     |
-| 🧠 Node.js         | Back-end JavaScript runtime   |
-| 🚂 Express         | Web server framework          |
-| 🍃 MongoDB         | NoSQL database                |
-| 🔗 Mongoose        | MongoDB ODM                   |
-| 🌐 CORS            | Cross-Origin Resource Sharing middleware |
-| 🔄 Nodemon         | Development server auto-restart |
-| 🧩 React Context API | State management             |
-
->>>>>>> REPLACE
-<<<<<<< SEARCH
----
-
-## 🖼️ Screenshots
-
-> 📷 Add your project screenshots here.  
-> Example:  
-> ![Home Page](./screenshots/home.png)  
-> ![Booking Page](./screenshots/booking.png)
-
----
-=======
+| Tech              | Role                                       |
+|-------------------|--------------------------------------------|
+| ⚛️ React           | Front-end library                          |
+| 🎨 CSS             | Styling                                    |
+| 📡 Axios           | API calls                                  |
+| 🧠 Node.js         | Back-end JavaScript runtime                |
+| 🚂 Express         | Web server framework                       |
+| 🍃 MongoDB         | NoSQL database                             |
+| 🔗 Mongoose        | MongoDB ODM                                |
+| 🌐 CORS            | Cross-Origin Resource Sharing middleware   |
+| 🔄 Nodemon         | Development server auto-restart            |
+| 🧩 React Context API | State management                          |
 
 ---
 
@@ -67,10 +120,45 @@ This project uses a MERN-like architecture combining:
 ---
 
 ## 🖼️ Screenshots
- 
+
 > Example:  
-> ![Home Page](MovieBookingApp\Screenshots\1 (1).png)  
-> ![Booking Page](MovieBookingApp\Screenshots\1 (2).png)
-> ![Booking Page](MovieBookingApp\Screenshots\1 (3).png)
+> ![Home Page](MovieBookingApp/Screenshots/1%20(1).png)  
+> ![Booking Page](MovieBookingApp/Screenshots/1%20(2).png)  
+> ![Confirmation Page](MovieBookingApp/Screenshots/1%20(3).png)
+
+---
+
+## 🤝 Contributing
+
+We ❤️ contributions!
+
+To contribute:
+
+1. 🍴 Fork the repository  
+2. 🛠️ Create a feature branch:  
+   ```bash
+   git checkout -b feature/your-feature
+   ```
+3. 💾 Commit your changes:  
+   ```bash
+   git commit -m "Add new feature"
+   ```
+4. 📤 Push to branch:  
+   ```bash
+   git push origin feature/your-feature
+   ```
+
+
+## 📬 Feedback
+
+Have suggestions or found a bug?  
+Please open an [issue](https://github.com/Snapdragon8g2/District---MovieBookingApp/issues) or drop a ⭐️ if you liked the project!
+
+---
+
+## 🚀 Let’s Go!
+
+👉 Visit **`http://localhost:3000`** in your browser  
+Enjoy exploring your own version of Movie Booking like District! 🍿
 
 ---
