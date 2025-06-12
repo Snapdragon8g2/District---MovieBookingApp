@@ -8,24 +8,24 @@ Welcome to the 🚀 **Movie Booking app**! This project replicates the core feat
 
 Make sure the following are installed:
 
-- 📦 [Node.js](https://nodejs.org/)
-- 🍃 [MongoDB](https://www.mongodb.com/) running locally at `mongodb://127.0.0.1:27017`
+-  [Node.js](https://nodejs.org/)
+-  [MongoDB](https://www.mongodb.com/) running locally at `mongodb://127.0.0.1:27017`
 
 ---
 
 ## 🛠️ Back-End Setup
 
-1. 📂 Navigate to the `back-end` directory:
+1.  Navigate to the `back-end` directory:
    ```bash
    cd back-end
    ```
 
-2. 📥 Install dependencies:
+2.  Install dependencies:
    ```bash
    npm install
    ```
 
-3. ▶️ Start the server:
+3.  Start the server:
    ```bash
    npm start
    ```
@@ -37,22 +37,22 @@ Make sure the following are installed:
 
 ## 🎨 Front-End Setup
 
-1. 📂 Navigate to the `front-end` directory:
+1.  Navigate to the `front-end` directory:
    ```bash
    cd front-end
    ```
 
-2. 📥 Install dependencies:
+2.  Install dependencies:
    ```bash
    npm install
    ```
 
-3. ▶️ Start the React dev server:
+3. ▶Start the React dev server:
    ```bash
    npm start
    ```
 
-✅ Front-end opens at **`http://localhost:3000`**
+Front-end opens at **`http://localhost:3000`**
 
 ---
 
@@ -67,29 +67,29 @@ Make sure the following are installed:
 
 ## 🧪 Features
 
-✨ Fully functional movie listing & booking interface  
-📆 Movie scheduling and seat selection  
-🛒 Ticket booking and confirmation  
-📦 MongoDB-powered persistent storage  
-🎨 Responsive, user-friendly UI built with React  
-🔄 RESTful APIs for back-end communication  
+ Fully functional movie listing & booking interface  
+ Movie scheduling and seat selection  
+ Ticket booking and confirmation  
+ MongoDB-powered persistent storage  
+ Responsive, user-friendly UI built with React  
+ RESTful APIs for back-end communication  
 
 ---
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 | Tech              | Role                                       |
 |-------------------|--------------------------------------------|
 | ⚛️ React           | Front-end library                          |
-| 🎨 CSS             | Styling                                    |
-| 📡 Axios           | API calls                                  |
-| 🧠 Node.js         | Back-end JavaScript runtime                |
-| 🚂 Express         | Web server framework                       |
-| 🍃 MongoDB         | NoSQL database                             |
-| 🔗 Mongoose        | MongoDB ODM                                |
-| 🌐 CORS            | Cross-Origin Resource Sharing middleware   |
-| 🔄 Nodemon         | Development server auto-restart            |
-| 🧩 React Context API | State management                          |
+|  CSS             | Styling                                    |
+|  Axios           | API calls                                  |
+|  Node.js         | Back-end JavaScript runtime                |
+|  Express         | Web server framework                       |
+|  MongoDB         | NoSQL database                             |
+|  Mongoose        | MongoDB ODM                                |
+|  CORS            | Cross-Origin Resource Sharing middleware   |
+|  Nodemon         | Development server auto-restart            |
+|  React Context API | State management                          |
 
 ---
 
@@ -128,9 +128,6 @@ This project uses a MERN-like architecture combining:
 
 ---
 
-## 🤝 Contributing
-
-We ❤️ contributions!
 
 To contribute:
 
@@ -149,14 +146,14 @@ To contribute:
    ```
 
 
-## 📬 Feedback
+## Feedback
 
 Have suggestions or found a bug?  
 Please open an [issue](https://github.com/Snapdragon8g2/District---MovieBookingApp/issues) or drop a ⭐️ if you liked the project!
 
 ---
 
-## 🚀 Let’s Go!
+##  Let’s Go!
 
 👉 Visit **`http://localhost:3000`** in your browser  
 Enjoy exploring your own version of Movie Booking like District! 🍿
