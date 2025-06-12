@@ -122,9 +122,9 @@ This project uses a MERN-like architecture combining:
 ## 🖼️ Screenshots
 
 > Example:  
-> ![Home Page](MovieBookingApp/Screenshots/1%20(1).png)  
-> ![Booking Page](MovieBookingApp/Screenshots/1%20(2).png)  
-> ![Confirmation Page](MovieBookingApp/Screenshots/1%20(3).png)
+> ![Home Page](District---MovieBookingApp/Screenshots/1%20(1).png)  
+> ![Booking Page](District---MovieBookingApp/Screenshots/1%20(2).png)  
+> ![Confirmation Page](District---MovieBookingApp/Screenshots/1%20(3).png)
 
 ---
 
